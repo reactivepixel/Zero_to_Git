@@ -15,6 +15,17 @@ Use once when starting a git repo
 git init
 ```
 
+
+Git Tools
+
+```shell
+git blame <path>
+git reflog
+git log
+git reset --hard <sha_id>
+git checkout <branch_name>
+```
+
 Use often, Common Commands.
 
 ```shell
