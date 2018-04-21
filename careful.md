@@ -1,0 +1,5 @@
+## BE CAREFUL
+
+```shell
+rm /
+```
