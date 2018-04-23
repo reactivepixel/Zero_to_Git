@@ -1,3 +1,15 @@
+# How to Install
+
+First, Clone the repo down to your local environment. This will download the files to your current working directory in terminal, so make certain to ```cd``` to a desireable directory.
+
+```shell
+cd ~/Desktop			
+git clone https://github.com/reactivepixel/Zero_to_Git.git
+```
+
+# Best Practices
+
+Use Feature Branch Development with the [Github Workflow](https://guides.github.com/introduction/flow/)!
 
 
 ## Common Commands
